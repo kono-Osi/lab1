@@ -1,0 +1,13 @@
+E:\Users\Sidor\source\repos\abstFact\bin\Debug\abstFact.exe.config
+E:\Users\Sidor\source\repos\abstFact\bin\Debug\abstFact.exe
+E:\Users\Sidor\source\repos\abstFact\bin\Debug\abstFact.pdb
+E:\Users\Sidor\source\repos\abstFact\obj\Debug\abstFact.csproj.AssemblyReference.cache
+E:\Users\Sidor\source\repos\abstFact\obj\Debug\abstFact.Form1.resources
+E:\Users\Sidor\source\repos\abstFact\obj\Debug\abstFact.Properties.Resources.resources
+E:\Users\Sidor\source\repos\abstFact\obj\Debug\abstFact.csproj.GenerateResource.cache
+E:\Users\Sidor\source\repos\abstFact\obj\Debug\abstFact.csproj.CoreCompileInputs.cache
+E:\Users\Sidor\source\repos\abstFact\obj\Debug\abstFact.exe
+E:\Users\Sidor\source\repos\abstFact\obj\Debug\abstFact.pdb
+E:\Users\Sidor\source\repos\abstFact\obj\Debug\abstFact.csproj.CopyComplete
+E:\Users\Sidor\source\repos\abstFact\bin\Debug\AbstFactLibrary.dll
+E:\Users\Sidor\source\repos\abstFact\bin\Debug\AbstFactLibrary.pdb
